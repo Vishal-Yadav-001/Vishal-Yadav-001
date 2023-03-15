@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Vishal-Yadav-001
+## 👋 Hi, I’m Vishal-Yadav
 - 👀 I’m interested in ... __Front end development__
 - 🌱 I’m currently learning ... __Node js__, __express js__, __mongo db__
 - 💞️ I’m looking to collaborate on ... **front-end and fullstack projects**
