@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
 
 
-[![Vishals's github stats](https://github-readme-stats.vercel.app/api?username=Vishal-Yadav-001&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Yadav-001&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Vishals's github stats](https://github-readme-stats.vercel.app/api?username=Vishal-Yadav-001&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Yadav-001&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
