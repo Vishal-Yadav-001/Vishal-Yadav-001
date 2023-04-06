@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 - 🎨 Languages and Tools:  
    - __React__,
      __Angular__,
-     __Node js__,  
+     __Node js__,
+     __Serverless__,
+     __AWS Lambda__,
    -  __JavaScript__,
     __HTML5__,
      __CSS__,
