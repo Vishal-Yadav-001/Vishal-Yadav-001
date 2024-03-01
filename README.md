@@ -1,7 +1,11 @@
  
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
 
-🌱 I’m currently learning => Mongo DB, Node js<br><br>💬 Ask me about => Angular, React, Javascript, Typescript<br><br>📫 How to reach me vdragns98@gmail.com
+<h2>🌱 I’m currently learning => Mongo DB, Node js</h2>
+<br><br>
+<h2>💬 Ask me about => Angular, React, Javascript, Typescript </h2>
+<br><br>
+<h2>📫 How to reach me vdragns98@gmail.com </h2>
 
 
 ## 🌐 Socials:
