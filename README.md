@@ -1,5 +1,5 @@
  
-<h1 align="center">Hi 👋, I'm Vimal Yadav</h1>
+<h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
 <p>
  <h4>🌱 I’m currently learning => Mongo DB, Node js</h4>
 
