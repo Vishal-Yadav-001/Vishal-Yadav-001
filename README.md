@@ -3,7 +3,7 @@
 <p>
  <h4>🌱 I’m currently learning => Mongo DB, Node js</h4>
 
-<h4>💬 Ask me about => Angular, React, Javascript,Python, Typescript </h4>
+<h4>💬 Ask me about => Angular, React, Javascript, Python, Typescript </h4>
 </p>
 
 
