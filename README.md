@@ -43,7 +43,7 @@ I enjoy migrating legacy applications, building reusable components, and deliver
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/vishal-yadav-741956222/
 - 📧 Email: vishalyadavcodes7@gmail.com
-- 📄 Resume: (Add resume.pdf to this repo and link here)
+- 📄 Resume: https://drive.google.com/file/d/1-8bJHcB4-OpyVe8Xk1pRgh64E5MPJBm_/view?usp=sharing
 
 ---
 ⭐ If you like my work, feel free to follow or connect!
