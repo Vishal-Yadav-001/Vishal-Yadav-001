@@ -47,6 +47,6 @@ I enjoy migrating legacy applications, building reusable components, and deliver
 
 ---
 ⭐ If you like my work, feel free to follow or connect!
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile%20Views)
+![](https://komarev.com/ghpvc/?username=Vishal-Yadav-001&color=blue&style=flat-square&label=Profile%20Views)
 
 
